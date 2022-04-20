@@ -3,10 +3,7 @@
 Make sure you have Python installed on your machine, you download the installer from [here](https://www.python.org/downloads/).
 
 ## Clone the repository
-```
-git clone https://github.com/3ct0s/discord-keylogger.git
-```
-Or you can download the zip file from the repository website.
+you can download the zip file from the repository website.
 
 ## Install Required Libraries
 ```
